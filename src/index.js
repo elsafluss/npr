@@ -8,3 +8,6 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
+// it would be cool if you could use CRA without the extras
+// but also with router maybe already added
+// that probably exists somewhere
