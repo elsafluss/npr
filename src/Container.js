@@ -10,6 +10,9 @@ const Container = () => {
   return (
     <div className="container">
       This is the container
+      I plan on showing data from an NPR podcast feed here
+      Once I get the data
+      CORS yay
       <Card />
       <Card />
     </div>
